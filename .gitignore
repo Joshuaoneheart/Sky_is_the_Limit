@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+/data/ASRGLUE/ASRGLUE
+/data/ASRGLUE/*.zip
+/data/FSC/*.tar.gz
+/data/FSC/FSC
