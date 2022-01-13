@@ -64,7 +64,7 @@ except:
 criterion = nn.CrossEntropyLoss()
 
 
-n_epochs = 30
+n_epochs = 0
 accu_step = 1
 best_acc = 0
 for epoch in range(n_epochs):
