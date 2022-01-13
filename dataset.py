@@ -17,18 +17,20 @@ class CMU_MOSEIASRDataset(Dataset):
         self.split = split
         self.data = data
         self.path = path
-        self.processor
+        self.processor = processor
 
     def __getitem__(self, idx):
-        wav_path = os.path.join(self.path, 'data/CMU_MOSEI/Audio', self.split, self.data[idx][0])
+        wav_path = os.path.join(self.path, 'Audio', self.split, self.data[idx][0])
         wav, sr = torchaudio.load(wav_path)
-        text_path = os.path.join(self.path, 'data/CMU_MOSEI/Transcript/Combined', self.data[idx][0])
+        text_path = os.path.join(self.path, 'Transcript/Combined', "_".join(self.data[idx][0].split("_")[:-1]) + ".txt")
         text = ""
         with open(text_path, "r") as f:
-            print(f.readlines())
+            for line in f.readlines():
+                if line.split("___")[1] == self.data[idx][0].split("_")[-1].replace(".wav", ""):
+                    text = line.split("___")[-1]
 
         item = {}
-        item["input_values"] = processor(wav, sampling_rate=sr).input_values[0]
+        item["input_values"] = self.processor(wav, sampling_rate=sr, return_tensors="pt").input_values[0]
         item["input_length"] = len(item["input_values"])
         
         
@@ -38,8 +40,8 @@ class CMU_MOSEIASRDataset(Dataset):
         label = random.randint(0, self.class_num - 1)
         '''
         
-        with processor.as_target_processor():
-            item["labels"] = processor(text).input_ids
+        with self.processor.as_target_processor():
+            item["labels"] = self.processor(text, return_tensors="pt").input_ids
 
         return item
 
@@ -53,7 +55,7 @@ class CMU_MOSEISLUDataset(Dataset):
         self.path = path
 
     def __getitem__(self, idx):
-        wav_path = os.path.join(self.path, 'data/CMU_MOSEI/Audio', self.split, self.data[idx][0])
+        wav_path = os.path.join(self.path, 'Audio', self.split, self.data[idx][0])
         wav, sr = torchaudio.load(wav_path)
         max_l = 800000
         if wav.shape[1] > max_l:
