@@ -1,0 +1,3794 @@
+sentence,label
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn the lamp on,activate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the heating,increase|heat|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Turn on the lights,activate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Turn down the volume,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Turn on the lights,activate|lights|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Could you decrease the heating please?,decrease|heat|none
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Bring juice,bring|juice|none
+Get me my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Change the language,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Switch language,change language|none|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Switch the bedroom lights on,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
+Pause,deactivate|music|none
+Turn on the lights,activate|lights|none
+Turn off the lights,deactivate|lights|none
+Change language,change language|none|none
+Pause the music,deactivate|music|none
+Resume,activate|music|none
+Volume down,decrease|volume|none
+Turn the lights on,activate|lights|none
+Switch on the lights,activate|lights|none
+Lights on,activate|lights|none
+Switch off the lights,deactivate|lights|none
+Turn the lights off,deactivate|lights|none
+Lights off,deactivate|lights|none
+Volume up,increase|volume|none
+Turn up the volume,increase|volume|none
+Turn the volume up,increase|volume|none
+Make the music louder,increase|volume|none
+Turn down the volume,decrease|volume|none
+Turn the volume down,decrease|volume|none
+Make the music softer,decrease|volume|none
+Turn up the temperature,increase|heat|none
+Turn the temperature up,increase|heat|none
+Turn up the heat,increase|heat|none
+Turn the heat up,increase|heat|none
+Turn down the temperature,decrease|heat|none
+Turn the temperature down,decrease|heat|none
+Turn down the heat,decrease|heat|none
+Turn the heat down,decrease|heat|none
+Turn off the music,deactivate|music|none
+Stop the music,deactivate|music|none
+Play,activate|music|none
+Put on the music,activate|music|none
+Play the music,activate|music|none
+Start the music,activate|music|none
+Turn on the lamp,activate|lamp|none
+Switch on the lamp,activate|lamp|none
+Turn the lamp on,activate|lamp|none
+Lamp on,activate|lamp|none
+Turn off the lamp,deactivate|lamp|none
+Turn the lamp off,deactivate|lamp|none
+Switch off the lamp,deactivate|lamp|none
+Lamp off,deactivate|lamp|none
+Switch the lights on,activate|lights|none
+Turn on the kitchen lights,activate|lights|kitchen
+Switch on the kitchen lights,activate|lights|kitchen
+Turn the lights on in the kitchen,activate|lights|kitchen
+Switch on the lights in the kitchen,activate|lights|kitchen
+Lights on in the kitchen,activate|lights|kitchen
+Kitchen lights on,activate|lights|kitchen
+Switch the kitchen lights on,activate|lights|kitchen
+Turn the kitchen lights on,activate|lights|kitchen
+Turn on the lights in the bedroom,activate|lights|bedroom
+Turn the bedroom lights on,activate|lights|bedroom
+Switch on the lights in the bedroom,activate|lights|bedroom
+Lights on in the bedroom,activate|lights|bedroom
+Bedroom lights on,activate|lights|bedroom
+Turn on the washroom lights,activate|lights|washroom
+Turn the washroom lights on,activate|lights|washroom
+Switch on the washroom lights,activate|lights|washroom
+Lights on in the washroom,activate|lights|washroom
+Washroom lights on,activate|lights|washroom
+Turn on the bathroom lights,activate|lights|washroom
+Turn the bathroom lights on,activate|lights|washroom
+Switch on the bathroom lights,activate|lights|washroom
+Lights on in the bathroom,activate|lights|washroom
+Bathroom lights on,activate|lights|washroom
+Switch the lights off,deactivate|lights|none
+Turn off the kitchen lights,deactivate|lights|kitchen
+Turn the lights off in the kitchen,deactivate|lights|kitchen
+Switch off the lights in the kitchen,deactivate|lights|kitchen
+Switch the lights off in the kitchen,deactivate|lights|kitchen
+Lights off in the kitchen,deactivate|lights|kitchen
+Kitchen lights off,deactivate|lights|kitchen
+Turn off the lights in the bedroom,deactivate|lights|bedroom
+Turn the bedroom lights off,deactivate|lights|bedroom
+Switch off the lights in the bedroom,deactivate|lights|bedroom
+Switch the bedroom lights off,deactivate|lights|bedroom
+Lights off in the bedroom,deactivate|lights|bedroom
+Bedroom lights off,deactivate|lights|bedroom
+Turn off the washroom lights,deactivate|lights|washroom
+Switch off the washroom lights,deactivate|lights|washroom
+Lights off in the washroom,deactivate|lights|washroom
+Washroom lights off,deactivate|lights|washroom
+Turn volume up,increase|volume|none
+Turn sound up,increase|volume|none
+Turn it up,increase|volume|none
+Make it louder,increase|volume|none
+Louder,increase|volume|none
+Volume max,increase|volume|none
+Louder please,increase|volume|none
+Increase the volume,increase|volume|none
+Increase the sound volume,increase|volume|none
+I need volume,increase|volume|none
+Increase the sound,increase|volume|none
+Louder phone,increase|volume|none
+I can't hear that,increase|volume|none
+Too quiet,increase|volume|none
+That's too quiet,increase|volume|none
+Far too quiet,increase|volume|none
+Turn the sound up,increase|volume|none
+"I need to hear this, increase the volume",increase|volume|none
+"I couldn't hear anything, turn up the volume",increase|volume|none
+"This video sound is too low, turn up the volume",increase|volume|none
+Decrease volume,decrease|volume|none
+Turn volume down,decrease|volume|none
+Turn sound down,decrease|volume|none
+Decrease audio volume,decrease|volume|none
+Reduce audio volume,decrease|volume|none
+Turn it down,decrease|volume|none
+Quieter,decrease|volume|none
+Volume mute,decrease|volume|none
+Lower the volume,decrease|volume|none
+Volume lower,decrease|volume|none
+Decrease the volume,decrease|volume|none
+Decrease sound levels,decrease|volume|none
+Too loud,decrease|volume|none
+That’s too loud,decrease|volume|none
+Far too loud,decrease|volume|none
+Make it quieter,decrease|volume|none
+"It’s too loud, turn it down",decrease|volume|none
+"It’s too loud, turn the volume down",decrease|volume|none
+Increase the temperature,increase|heat|none
+Increase the heating,increase|heat|none
+Could you increase the heating?,increase|heat|none
+Could you increase the heating please?,increase|heat|none
+Make it hotter,increase|heat|none
+More heat,increase|heat|none
+Heat up,increase|heat|none
+Turn up the temperature in the kitchen,increase|heat|kitchen
+Turn the kitchen temperature up,increase|heat|kitchen
+Increase the temperature in the kitchen,increase|heat|kitchen
+Increase the heating in the kitchen,increase|heat|kitchen
+Turn up the heat in the kitchen,increase|heat|kitchen
+Turn the heat up in the kitchen,increase|heat|kitchen
+Kitchen heat up,increase|heat|kitchen
+Turn up the temperature in the bedroom,increase|heat|bedroom
+Turn the temperature in the bedroom up,increase|heat|bedroom
+Turn up the bedroom heat,increase|heat|bedroom
+Turn the bedroom heat up,increase|heat|bedroom
+Bedroom heat up,increase|heat|bedroom
+Increase the temperature in the bedroom,increase|heat|bedroom
+Increase the heating in the bedroom,increase|heat|bedroom
+Turn up the washroom temperature,increase|heat|washroom
+Turn the temperature up in the washroom,increase|heat|washroom
+Turn up the heat in the washroom,increase|heat|washroom
+Turn the heat up in the washroom,increase|heat|washroom
+Washroom heat up,increase|heat|washroom
+Increase the temperature in the washroom,increase|heat|washroom
+Increase the heating in the washroom,increase|heat|washroom
+Turn up the bathroom temperature,increase|heat|washroom
+Turn the temperature up in the bathroom,increase|heat|washroom
+Turn up the heat in the bathroom,increase|heat|washroom
+Turn the heat up in the bathroom,increase|heat|washroom
+Bathroom heat up,increase|heat|washroom
+Increase the temperature in the bathroom,increase|heat|washroom
+Increase the heating in the bathroom,increase|heat|washroom
+Make it cooler,decrease|heat|none
+Less heat,decrease|heat|none
+Heat down,decrease|heat|none
+Decrease the temperature,decrease|heat|none
+Decrease the heating,decrease|heat|none
+Could you decrease the heating?,decrease|heat|none
+Could you decrease the heating please?,decrease|heat|none
+Turn down the temperature in the kitchen,decrease|heat|kitchen
+Turn the kitchen temperature down,decrease|heat|kitchen
+Turn down the heat in the kitchen,decrease|heat|kitchen
+Turn the heat down in the kitchen,decrease|heat|kitchen
+Kitchen heat down,decrease|heat|kitchen
+Decrease the temperature in the kitchen,decrease|heat|kitchen
+Decrease the heating in the kitchen,decrease|heat|kitchen
+Turn down the temperature in the bedroom,decrease|heat|bedroom
+Turn the temperature in the bedroom down,decrease|heat|bedroom
+Turn down the bedroom heat,decrease|heat|bedroom
+Turn the bedroom heat down,decrease|heat|bedroom
+Bedroom heat down,decrease|heat|bedroom
+Decrease the temperature in the bedroom,decrease|heat|bedroom
+Decrease the heating in the bedroom,decrease|heat|bedroom
+Turn down the washroom temperature,decrease|heat|washroom
+Turn the temperature down in the washroom,decrease|heat|washroom
+Turn down the heat in the washroom,decrease|heat|washroom
+Turn the heat down in the washroom,decrease|heat|washroom
+Decrease the temperature in the washroom,decrease|heat|washroom
+Decrease the heating in the washroom,decrease|heat|washroom
+Washroom heat down,decrease|heat|washroom
+Turn down the bathroom temperature,decrease|heat|washroom
+Turn the temperature down in the bathroom,decrease|heat|washroom
+Turn down the heat in the bathroom,decrease|heat|washroom
+Turn the heat down in the bathroom,decrease|heat|washroom
+Decrease the temperature in the bathroom,decrease|heat|washroom
+Decrease the heating in the bathroom,decrease|heat|washroom
+Bathroom heat down,decrease|heat|washroom
+Pause music,deactivate|music|none
+Stop music,deactivate|music|none
+Stop,deactivate|music|none
+Play music,activate|music|none
+Resume music,activate|music|none
+Bring me the newspaper,bring|newspaper|none
+Get me the newspaper,bring|newspaper|none
+Bring the newspaper,bring|newspaper|none
+Bring newspaper,bring|newspaper|none
+Go get the newspaper,bring|newspaper|none
+Fetch the newspaper,bring|newspaper|none
+Bring me some juice,bring|juice|none
+Get me some juice,bring|juice|none
+Bring some juice,bring|juice|none
+Bring juice,bring|juice|none
+Go get me some juice,bring|juice|none
+Bring me my socks,bring|socks|none
+Get me my socks,bring|socks|none
+Bring socks,bring|socks|none
+Bring my socks,bring|socks|none
+Go get me my socks,bring|socks|none
+Fetch my socks,bring|socks|none
+Bring me my shoes,bring|shoes|none
+Get me my shoes,bring|shoes|none
+Bring shoes,bring|shoes|none
+Bring my shoes,bring|shoes|none
+Go get me my shoes,bring|shoes|none
+Fetch my shoes,bring|shoes|none
+Allow a different language,change language|none|none
+Use a different language,change language|none|none
+Change the language,change language|none|none
+Switch the language,change language|none|none
+Switch language,change language|none|none
+Switch languages,change language|none|none
+Change system language,change language|none|none
+Open language settings,change language|none|none
+Set the language,change language|none|none
+Language settings,change language|none|none
+Set language to Chinese,change language|Chinese|none
+Set language to German,change language|German|none
+Set language to Korean,change language|Korean|none
+Set language to English,change language|English|none
+Set my device to Chinese,change language|Chinese|none
+OK now switch the main language to Chinese,change language|Chinese|none
+OK now switch the main language to German,change language|German|none
+OK now switch the main language to Korean,change language|Korean|none
+OK now switch the main language to English,change language|English|none
+Set my phone's language to Chinese,change language|Chinese|none
+Set my phone's language to German,change language|German|none
+Set my phone's language to Korean,change language|Korean|none
+Set my phone's language to English,change language|English|none
+I need to practice my Chinese. Switch the language,change language|Chinese|none
+I need to practice my German. Switch the language,change language|German|none
+I need to practice my Korean. Switch the language,change language|Korean|none
+I need to practice my English. Switch the language,change language|English|none
+Turn the washroom lights off,deactivate|lights|washroom
