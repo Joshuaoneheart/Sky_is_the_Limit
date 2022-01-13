@@ -1,10 +1,10 @@
-- common.tensorboard_logdir=/content/Sky_is_the_Limit/data/CMU_MOSEI/save/tb_logs
-- task.data=/content/Sky_is_the_Limit/data/CMU_MOSEI/manifest_2
+- common.tensorboard_logdir=/home/tspan123/Sky_is_the_Limit/data/CMU_MOSEI/save/tb_logs
+- task.data=/home/tspan123/Sky_is_the_Limit/data/CMU_MOSEI/manifest_7
 - dataset.train_subset=fine-tune
 - dataset.valid_subset=dev
 - distributed_training.distributed_world_size=1
 - common.seed=1
-- model.w2v_path=/content/save/pretrained/wav2vec_small.pt
+- model.w2v_path=/home/tspan123/Sky_is_the_Limit/save/pretrained/wav2vec_small.pt
 - optimization.max_update=80000
 - dataset.max_tokens=2800000
 - task.normalize=false

@@ -5,7 +5,7 @@ common:
   log_interval: 100
   log_format: json
   log_file: null
-  tensorboard_logdir: /content/Sky_is_the_Limit/data/CMU_MOSEI/save/tb_logs
+  tensorboard_logdir: /home/tspan123/Sky_is_the_Limit/data/CMU_MOSEI/save/tb_logs
   wandb_project: null
   azureml_logging: false
   seed: 1
@@ -216,7 +216,7 @@ interactive:
   input: '-'
 model:
   _name: wav2vec_ctc
-  w2v_path: /content/save/pretrained/wav2vec_small.pt
+  w2v_path: /home/tspan123/Sky_is_the_Limit/save/pretrained/wav2vec_small.pt
   apply_mask: true
   mask_selection: static
   mask_length: 10
@@ -234,7 +234,7 @@ model:
   freeze_finetune_updates: 10000
 task:
   _name: audio_finetuning
-  data: /content/Sky_is_the_Limit/data/CMU_MOSEI/manifest_2
+  data: /home/tspan123/Sky_is_the_Limit/data/CMU_MOSEI/manifest_7
   normalize: false
   labels: ltr
 criterion:

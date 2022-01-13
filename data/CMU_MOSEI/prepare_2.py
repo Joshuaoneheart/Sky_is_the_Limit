@@ -47,19 +47,37 @@ def create_manifest(
                 frames = int(16000 * (end - start))
                 print(f"{f}_{idx}.wav\t{frames}", file=fp)
                 text = ""
-                if not (split == "test"):
-                    text_path = os.path.join(data_dir, f"Transcript/Combined/{f}.txt")
-                    with open(text_path, "r") as in_f:
-                      for line in in_f.readlines():
-                        if(line.split("___")[1] == str(idx)):
-                          text = line.split("___")[-1].strip()
-                          break
-                    with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.wrd"), "a") as f:
-                        print(text, file=f)
-                    with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.ltr"), "a") as f:
-                        print(" ".join(text.replace(" ", "|")), file=f)
-                    with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.sent"), "a") as f:
-                        print(label, file=f)
+                text_path = os.path.join(data_dir, f"Transcript/Combined/{f}.txt")
+                with open(text_path, "r") as in_f:
+                  for line in in_f.readlines():
+                    if(line.split("___")[1] == str(idx)):
+                      text = line.split("___")[-1].strip()
+                      break
+                with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.wrd"), "a") as f:
+                    print(text, file=f)
+                with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.ltr"), "a") as f:
+                    print(" ".join(text.replace(" ", "|")), file=f)
+                with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.sent"), "a") as f:
+                    print(label, file=f)
+
+    for subset in ["fine-tune", "dev", "test"]:
+        data = {}
+        data["sentence"] = []
+        data["label"] = []
+        for line in open(os.path.join(manifest_dir, f"{subset}.wrd")).readlines():
+            data["sentence"].append(line.strip())
+        for line in open(os.path.join(manifest_dir, f"{subset}.sent")).readlines():
+            data["label"].append(line.strip())
+
+        df = pd.DataFrame(data=data)
+        output_filename = os.path.join(manifest_dir, f"{subset}.huggingface.csv")
+        try:
+            df.to_csv(output_filename, index=False)
+            print(f"Successfully generated file at {output_filename}")
+
+        except:
+            print(f"something wrong when generating {output_filename}")
+            return
 
 
 if __name__ == "__main__":
