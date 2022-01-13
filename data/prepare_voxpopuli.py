@@ -6,29 +6,6 @@ import shutil
 import soundfile
 import re
 
-from slue_toolkit.prepare import data_utils
-
-splits = {"fine-tune", "dev", "test"}
-
-
-def create_split(
-    input_dir="/persist/data/voxpopuli", output_dir="/persist/data/slue-voxpopuli"
-):
-    os.makedirs(output_dir, exist_ok=True)
-    for split in splits:
-        print(f"processing {split}")
-        split_dir = os.path.join(output_dir, split)
-        os.makedirs(split_dir, exist_ok=True)
-        metafile = os.path.join(input_dir, f"voxpopuli_asr_en_{split}_ner.tsv")
-        shutil.copy(metafile, os.path.join(output_dir, f"{split}.tsv"))
-        df = pd.read_csv(metafile, sep="\t")
-        for id in df["id"].array:
-            filename = os.path.join(
-                input_dir, f"voxpopuli_asr_en/transcribed_data/en/{id[:4]}/{id}.ogg"
-            )
-            shutil.copy(filename, split_dir)
-
-
 def create_manifest(
     data_dir="datasets/slue-voxpopuli",
     manifest_dir="manifest/slue-voxpopuli",

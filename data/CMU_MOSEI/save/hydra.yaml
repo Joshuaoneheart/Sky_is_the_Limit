@@ -109,7 +109,7 @@ hydra:
     - hydra.output_subdir=/content/Sky_is_the_Limit/data/CMU_MOSEI/save
     task:
     - common.tensorboard_logdir=/content/Sky_is_the_Limit/data/CMU_MOSEI/save/tb_logs
-    - task.data=/content/Sky_is_the_Limit/data/CMU_MOSEI/manifest
+    - task.data=/content/Sky_is_the_Limit/data/CMU_MOSEI/manifest_2
     - dataset.train_subset=fine-tune
     - dataset.valid_subset=dev
     - distributed_training.distributed_world_size=1
@@ -120,7 +120,7 @@ hydra:
     - task.normalize=false
   job:
     name: hydra_train
-    override_dirname: common.seed=1,common.tensorboard_logdir=/content/Sky_is_the_Limit/data/CMU_MOSEI/save/tb_logs,dataset.max_tokens=2800000,dataset.train_subset=fine-tune,dataset.valid_subset=dev,distributed_training.distributed_world_size=1,model.w2v_path=/content/save/pretrained/wav2vec_small.pt,optimization.max_update=80000,task.data=/content/Sky_is_the_Limit/data/CMU_MOSEI/manifest,task.normalize=false
+    override_dirname: common.seed=1,common.tensorboard_logdir=/content/Sky_is_the_Limit/data/CMU_MOSEI/save/tb_logs,dataset.max_tokens=2800000,dataset.train_subset=fine-tune,dataset.valid_subset=dev,distributed_training.distributed_world_size=1,model.w2v_path=/content/save/pretrained/wav2vec_small.pt,optimization.max_update=80000,task.data=/content/Sky_is_the_Limit/data/CMU_MOSEI/manifest_2,task.normalize=false
     id: ???
     num: ???
     config_name: w2v2_asr_1gpu
