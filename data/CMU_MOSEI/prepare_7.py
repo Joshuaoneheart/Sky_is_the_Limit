@@ -52,6 +52,7 @@ def create_manifest(
                     if(line.split("___")[1] == str(idx)):
                       text = line.split("___")[-1].strip()
                       break
+                text = text.replace("\"", "").replace("'", "")
                 with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.wrd"), "a") as f:
                     print(text, file=f)
                 with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.ltr"), "a") as f:
@@ -62,10 +63,10 @@ def create_manifest(
         data = {}
         data["sentence"] = []
         data["label"] = []
-        for line in open(os.path.join(manifest_dir, f"{subset}.wrd")).readlines():
+        for line, label in zip(open(os.path.join(manifest_dir, f"{subset}.wrd")).readlines(),open(os.path.join(manifest_dir, f"{subset}.sent")).readlines()):
+            if(not len(line.strip())): continue
             data["sentence"].append(line.strip())
-        for line in open(os.path.join(manifest_dir, f"{subset}.sent")).readlines():
-            data["label"].append(line.strip())
+            data["label"].append(label.strip())
 
         df = pd.DataFrame(data=data)
         output_filename = os.path.join(manifest_dir, f"{subset}.huggingface.csv")
