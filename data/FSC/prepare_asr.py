@@ -64,30 +64,8 @@ def create_manifest(
                 t = processor.decode(predicted_ids[0])
                 with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.wrd"), "a") as f:
                     print(t, file=f)
-                with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.ltr"), "a") as f:
-                    print(" ".join(t.replace(" ", "|")), file=f)
                 with open(os.path.join(manifest_dir, f"{split2kaldi[split]}.sent"), "a") as f:
                     print(f"{a}|{o}|{l}", file=f)
-
-    for subset in ["fine-tune", "dev", "test"]:
-        data = {}
-        data["sentence"] = []
-        data["label"] = []
-        for line in open(os.path.join(manifest_dir, f"{subset}.wrd")).readlines():
-            data["sentence"].append(line.strip())
-        for line in open(os.path.join(manifest_dir, f"{subset}.sent")).readlines():
-            data["label"].append(line.strip())
-
-        df = pd.DataFrame(data=data)
-        output_filename = os.path.join(manifest_dir, f"{subset}.huggingface.csv")
-        try:
-            df.to_csv(output_filename, index=False)
-            print(f"Successfully generated file at {output_filename}")
-
-        except:
-            print(f"something wrong when generating {output_filename}")
-            return
-
 
 if __name__ == "__main__":
     fire.Fire()
