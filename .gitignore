@@ -140,3 +140,5 @@ data/CMU_MOSEI/save
 data/FSC/save
 .hydra
 save
+/data/CMU_MOSEI/torch_ckpt
+/data/FSC/torch_ckpt
